@@ -109,7 +109,7 @@ body {
 }
 
 .start {
-  background-image: url(/images/header__back.png);
+  background-image: url(../images/header__back.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -493,16 +493,16 @@ body {
 }
 
 .offer__item:nth-of-type(1)::before {
-  background-image: url(/images/offer__content1.svg);
+  background-image: url(../images/offer__content1.svg);
 }
 
 .offer__item:nth-of-type(2)::before {
-  background-image: url(/images/offer__content2.svg);
+  background-image: url(../images/offer__content2.svg);
   margin-top: 20px;
 }
 
 .offer__item:nth-of-type(3)::before {
-  background-image: url(/images/offer__content3.svg);
+  background-image: url(../images/offer__content3.svg);
   margin-top: 20px;
 }
 
