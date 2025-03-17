@@ -3,8 +3,8 @@
   --secondary-color: #fdfdfd;
   --accent-color: #f2be22;
   --border-radius: 8px;
-  --font-regular: art-regular;
-  --font-bold: art-bold;
+  --font-regular: "art-regular";
+  --font-bold: "art-bold";
 }
 
 @font-face {
