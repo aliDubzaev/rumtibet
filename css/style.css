@@ -9,12 +9,12 @@
 
 @font-face {
   font-family: art-regular;
-  src: url(/fonts/NEXT\ ART_Regular.otf);
+  src: url(../fonts/NEXT\ ART_Regular.otf);
 }
 
 @font-face {
   font-family: art-bold;
-  src: url(/fonts/NEXT\ ART_Bold.otf);
+  src: url(../fonts/NEXT\ ART_Bold.otf);
 }
 
 *,
